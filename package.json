@@ -1,20 +1,25 @@
 {
-  "name": "understanding-typescript",
+  "name": "typescript-drag---drop-trello-board",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
+  "description": "Trello board with Typescript drag and drop",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "lite-server"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-rojas/TypeScript-Drag-Drop-Trello-Board.git"
   },
   "keywords": [
     "typescript",
-    "course"
+    "javascript",
+    "html",
+    "css"
   ],
-  "author": "Maximilian Schwarzmüller",
+  "author": "Edgar Rojas",
   "license": "ISC",
-  "devDependencies": {
-    "minimist": ">=1.2.3",
-    "lite-server": "^2.5.4"
-  }
+  "bugs": {
+    "url": "https://github.com/e-rojas/TypeScript-Drag-Drop-Trello-Board/issues"
+  },
+  "homepage": "https://github.com/e-rojas/TypeScript-Drag-Drop-Trello-Board#readme"
 }
